@@ -1,0 +1,6 @@
+employee_id,full_name,email,department,salary,joining_date
+101,Asha Rao,ASHA.RAO@example.com,engineering,"$78,000",2023-04-15
+102,Rahul Mehta,rahul.mehta@example.com,sales,62000,12-06-2022
+103,Meera Iyer,meera.iyer@example.com,finance,"58,500",2024-01-08
+104,Arjun Nair,arjun.nair@example.com,engineering,81000,2021-11-20
+105,Sana Khan,sana.khan@example.com,operations,54000,2023-09-01
